@@ -6,5 +6,4 @@ Tech Stack:
 Python (Pandas, NumPy),
 Scikit-learn,
 Matplotlib/Seaborn (for exploration),
-Custom Transformers (AgeImputer, FeatureEncoder, FeatureDropper),
-Pipeline API for clean preprocessing and modeling
+Custom Transformers (AgeImputer, FeatureEncoder, FeatureDropper)
